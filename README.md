@@ -29,7 +29,7 @@ The Nonogram agent is trained using the Policy Gradient method. It selects actio
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/danielshort3/nonogram.git
+    git clone https://github.com/danielshort3/nonogram-solver.git
     cd nonogram
     ```
 
