@@ -30,7 +30,7 @@ The Nonogram agent is trained using the Policy Gradient method. It selects actio
 1. Clone the repository:
     ```bash
     git clone https://github.com/danielshort3/nonogram-solver.git
-    cd nonogram
+    cd nonogram-solver
     ```
 
 2. Install the required packages (make sure you have `pip` and `virtualenv` installed):
